@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+
+My name is MUSABYIMANA Gad. I am an engineering student at the University of Tourism and Business Studies (UTB). I enjoy learning design and improving my coding and data skills. I describe myself as humble and committed to growing my abilities.
+
+This repository will hold my learning exercises and small projects as I practice Git and GitHub. My goal is to learn version control, collaborate with my team, and share progress on class tasks.
+
