@@ -1,0 +1,1 @@
+So far in this course, I have learned how to navigate the Linux command line, create and edit scripts using Bash, and understand basic process management. I also gained experience with Git commands such as clone, add, commit, and push, which help in version control and collaborative projects.
